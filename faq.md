@@ -1,6 +1,6 @@
 ---
-title: "Schedule"
-permalink: "/schedule/"
+title: "FAQ"
+permalink: "/faq/"
 layout: page
 ---
 
