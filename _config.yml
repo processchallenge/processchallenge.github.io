@@ -18,8 +18,9 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "overview.md"}
-  - {file: "README.md"}
-  - {file: "extra.md"} 
+  - {file: "shedule.md"}
+  - {file: "faq.md"}
+  - {file: "organisers.md"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:process.challenge@gmail.com"}
