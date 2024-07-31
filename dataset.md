@@ -19,7 +19,7 @@ The method for corpus collection was designed based on neuroscience research for
 * **Phonemic Fluency** asks participants to respond to the task of “Please say as many words beginning with the letter ‘P’ as you can. Any word beginning with ‘P’ except for names of people such as Peter, or countries such as Portugal.” The time limit for this is also a minute and this task is similar to the language tasks used in cognition assessments to test verbal fluency and executive functions related to language.
 * **Cookie Theft** picture description. Figure 1 shows the picture of Cookie Theft which speakers are asked to describe. This approach is widely used to collect audio in dementia detection research. This type of audio is expected to reflect various cognitive functions of speakers, such as language comprehension and memory.
 
-![Cookie Theft Picture](https://github.com/processchallenge/processchallenge.github.io/CookieTheft.png)
+![Cookie Theft Picture](./CookieTheft.png)
 
 **Fig. 1.** Cookie Theft picture from the Boston Diagnostic Aphasia Examination.
 
