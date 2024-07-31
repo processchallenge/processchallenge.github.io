@@ -1,5 +1,5 @@
 ---
-title: "Process challenge being accepted"
+title: "PROCESS SP challenge proposal"
 layout: post
 ---
 
