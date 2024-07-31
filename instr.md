@@ -14,17 +14,17 @@ layout: page
 The evaluation of the classification task will be done through standard classification and regression metrics. These metrics can be calculated globally by counting the total true positives, false negatives, and false positives:
 
 * **Macro-Precision**: The averaged ratio of correctly predicted positive observations to the total predicted positives.
-$$ Precision = \frac{1}{N} \times \frac{TP{_i}}{TP{_i} + FP{_i}} $$
+$$ \text{Precision} = \frac{1}{N} \times \frac{TP_i}{TP_i + FP_i} $$
 * **Macro-Recall**: The averaged ratio of correctly predicted positive observations to all observations in the actual class
-$$ Recall = \frac{1}{N} \times \frac{TP{_i}}{TP{_i} + FN{_i}} $$
+$$ \text{Recall} = \frac{1}{N} \times \frac{TP_i}{TP_i + FN_i} $$
 * **Macro-F1 Score**: The average of Precision and Recall.
-$$ F1 Score = 2 \times \frac{Precision \times Recall}{Precision + Recall} $$
+$$ \text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}} $$
 
 where $N$ is the number of diagnostic classes, $TP{_i}$, $FP{_i}$,$FN{_i}$ are true positives, false positives, and false negatives for the i-th class, respectively.
 
 ##### Regression task
 The evaluation of the regression task will be via the root mean squared error (RMSE):
-$$ mathrm{RMSE} = \sqrt{\frac{\sum_{i=1}^N (\hat{y}_i - y_i)^2}{N}}$$
+$$ mathrm{RMSE} = \sqrt{\frac{\sum_{i=1}^N (\hat{y}_i - y_i)^2}{N} $$
 where $y_i$ is the actual MMSE score and $\hat{y}_i$ is the predicted MMSE score.
 
 The ranking rules are divided into classification task ranking, regression task ranking, and a joint, combined ranking. The combined ranking evaluates performance across both tasks. The combined ranking criteria are:
