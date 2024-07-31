@@ -1,6 +1,7 @@
 ---
 title: "Instructions"
 permalink: "/instructions/"
+mathjax: true
 layout: page
 ---
 
