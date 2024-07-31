@@ -6,13 +6,13 @@ categories: media
 layout: page
 ---
 
-#### Tasks
+# Tasks
 
 1. **Classification**: This task is aimed at identifying those with different cognitive impairments and dementia from healthy volunteers through the processing of their speech.
 2. **Regression**: This task is to predict the corresponding Mini Mental Status Examination (MMSE) score of speakers from their speech.
 
-#### Evaluation
-##### Classification task
+# Evaluation
+## Classification task
 The evaluation of the classification task will be done through standard classification and regression metrics. These metrics can be calculated globally by counting the total true positives, false negatives, and false positives:
 
 * **Macro-Precision**: The averaged ratio of correctly predicted positive observations to the total predicted positives.
@@ -24,7 +24,7 @@ $$ \text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text
 
 where $$N$$ is the number of diagnostic classes, $$TP{_i}$$, $$FP{_i}$$, $$FN{_i}$$ are true positives, false positives, and false negatives for the i-th class, respectively.
 
-##### Regression task
+## Regression task
 The evaluation of the regression task will be via the root mean squared error (RMSE):
 
 $$ RMSE = \sqrt{\frac{\sum_{i=1}^N (\hat{y}_i - y_i)^2}{N}} $$
