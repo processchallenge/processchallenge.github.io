@@ -26,8 +26,8 @@ where $$N$$ is the number of diagnostic classes, $$TP{_i}$$, $$FP{_i}$$,$$FN{_i}
 
 ##### Regression task
 The evaluation of the regression task will be via the root mean squared error (RMSE):
-$$ mathrm{RMSE} = \sqrt{\frac{\sum_{i=1}^N (\hat{y}_i - y_i)^2}{N} $$
-where $y_i$ is the actual MMSE score and $\hat{y}_i$ is the predicted MMSE score.
+$$ \mathrm{RMSE} = \sqrt{\frac{\sum_{i=1}^N (\hat{y}_i - y_i)^2}{N} $$
+where $$y_i$$ is the actual MMSE score and $$\hat{y}_i$$ is the predicted MMSE score.
 
 The ranking rules are divided into classification task ranking, regression task ranking, and a joint, combined ranking. The combined ranking evaluates performance across both tasks. The combined ranking criteria are:
 $$ S_{k} = \frac{F1 Score_{k}}{\sum_{j}^{T} F1 Score_{j}} + 1 - \frac{\mathrm{RMSE}_{i}}{\sum_{j}^{T} \mathrm{RMSE}_{j}} $$
