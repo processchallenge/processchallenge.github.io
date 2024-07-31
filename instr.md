@@ -22,11 +22,13 @@ $$ \text{Recall} = \frac{1}{N} \times \frac{TP_i}{TP_i + FN_i} $$
 * **Macro-F1 Score**: The average of Precision and Recall.
 $$ \text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}} $$
 
-where $$N$$ is the number of diagnostic classes, $$TP{_i}$$, $$FP{_i}$$,$$FN{_i}$$ are true positives, false positives, and false negatives for the i-th class, respectively.
+where $$N$$ is the number of diagnostic classes, $$TP{_i}$$, $$FP{_i}$$, $$FN{_i}$$ are true positives, false positives, and false negatives for the i-th class, respectively.
 
 ##### Regression task
 The evaluation of the regression task will be via the root mean squared error (RMSE):
-$$ RMSE = \sqrt{\frac{\sum_{i=1}^N (\hat{y}_i - y_i)^2}{N} $$
+
+$$ RMSE = \sqrt{\frac{\sum_{i=1}^N (\hat{y}_i - y_i)^2}{N}} $$
+
 where $$y_i$$ is the actual MMSE score and $$\hat{y}_i$$ is the predicted MMSE score.
 
 The ranking rules are divided into classification task ranking, regression task ranking, and a joint, combined ranking. The combined ranking evaluates performance across both tasks. The combined ranking criteria are:
