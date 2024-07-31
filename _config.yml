@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:process.challenge@gmail.com"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/PROCESSchl?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1818658912695968190%7Ctwgr%5Ee4340a2c20e8313b195688cdc40bb0933151cd18%7Ctwcon%5Es1_"}
+  - {title: Twitter, icon: twitter-square, url: "https://twitter.com/PROCESSchl?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1818658912695968190%7Ctwgr%5Ee4340a2c20e8313b195688cdc40bb0933151cd18%7Ctwcon%5Es1_"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"} 
 
 plugins:
