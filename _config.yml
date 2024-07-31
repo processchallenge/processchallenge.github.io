@@ -16,9 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
   - {file: "README.md"}
-  - {file: "extra.md"}
-#- {file: "index.html"}
+  - {file: "extra.md"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:process.challenge@gmail.com"}
