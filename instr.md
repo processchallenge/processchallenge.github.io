@@ -2,6 +2,7 @@
 title: "Instructions"
 permalink: "/instructions/"
 mathjax: true
+categories: media
 layout: page
 ---
 
