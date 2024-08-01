@@ -34,7 +34,7 @@ layout: page
         	<img src="/bahman.jpeg" alt="Bahman Mirheidari" width="250" height="250"> 
         </td>
         <td style="width:70%">
-        	<a href="https://scholar.google.com/citations?user=YSEWTLsAAAAJ&hl=en">Bahman Mirheidari</a> is a Research Fellow at School of Computer Science University of Sheffield, and a member of the Speech and Hearing (SpandH) group. My line manage is professor Heidi Christensen. My research interests include medial applications of Automatic Speech Recognition (ASR) (e.g. people with dementia, stroke, and/or other mental disorders), automatic analysis of conversation, speaker diarisation, and tracking speech and language changes over time, detectiong TB through analysis of speech, automatic emotion/mood/anxiety detection from speech.
+        	<a href="https://scholar.google.com/citations?user=YSEWTLsAAAAJ&hl=en">Bahman Mirheidari</a> is a Research Fellow at School of Computer Science University of Sheffield, and a member of the Speech and Hearing (SpandH) group. He has been working with professor Heidi Christensen over six years after his PhD. His research interests include medial applications of Automatic Speech Recognition (ASR) (e.g. people with dementia, stroke, and/or other mental disorders), automatic analysis of conversation, speaker diarisation, and tracking speech and language changes over time, detectiong TB through analysis of speech, automatic emotion/mood/anxiety detection from speech.
         </td> 
     </tr> 
     <tr>
