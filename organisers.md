@@ -39,7 +39,7 @@ layout: page
     </tr> 
     <tr>
         <td style="width:30%">
-        	<img src="madhu.jpeg" alt="Madhurananda Pahar" width="250" height="250"> 
+        	<img src="/madhu.jpeg" alt="Madhurananda Pahar" width="250" height="250"> 
         </td>
         <td style="width:70%">
         	<a href="https://scholar.google.com/citations?user=P2clDtkAAAAJ&hl=en">Madhurananda Pahar</a> 
