@@ -42,7 +42,7 @@ layout: page
         	<img src="/madhu.jpeg" alt="Madhurananda Pahar" width="250" height="250"> 
         </td>
         <td style="width:70%">
-        	<a href="https://scholar.google.com/citations?user=P2clDtkAAAAJ&hl=en">Madhurananda Pahar</a> 
+        	<a href="https://scholar.google.com/citations?user=P2clDtkAAAAJ&hl=en">Madhurananda Pahar</a>  is a research fellow in the Department of Computer Science at the University of Sheffield, UK.  His general research interest is in the application of machine learning and signal processing in the field of Biology. Previously, he was involved in detecting and classifying TB and COVID-19 vocal audio such as cough, breath and speech in real-world environments as well as monitoring patients' long-term recovery using smart sensors such as an accelerometer in South Africa.  He also developed deep learning methods from third-generation sequencing (Oxford Nanopore) signals to study genomics, epigenomics, transcriptomics and epi-transcriptomics in the USA. Currently, he is analysing speech to detect the signs of early cognitive decline such as dementia in Sheffield, UK. 
         </td> 
     </tr> 
     <tr>
