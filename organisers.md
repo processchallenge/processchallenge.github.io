@@ -47,10 +47,10 @@ layout: page
     </tr> 
     <tr>
         <td style="width:30%">
-        	<img src="/fuxiang.jpeg" alt="Fuxiang Tao" width="250" height="250"> 
+        	<img src="/fuxiang.jpg" alt="Fuxiang Tao" width="250" height="250"> 
         </td>
         <td style="width:70%">
-        	<a href="https://scholar.google.com/citations?user=U5yWMxIAAAAJ&hl=en">Fuxiang Tao</a>          
+        	<a href="https://scholar.google.com/citations?user=U5yWMxIAAAAJ&hl=en">Fuxiang Tao</a> is a Research Associate in the Department of Computer Science at the University of Sheffield. His primarily focuses on Social Signal Processing, Artificial Intelligence and Human-Computer Interaction. lie in utilizing speech-based Artificial Intelligence techniques to detect emotions and cognitive disorders, such as depression and dementia. He also focuses on developing technologies to enhance social well-being in healthcare.         
         </td> 
     </tr> 
     <tr>
