@@ -98,7 +98,7 @@ layout: page
         	<img src="/luzs.jpeg" alt="Saturnino Luz" width="250" height="250"> 
         </td>
         <td style="width:70%">
-        	<a href="https://scholar.google.com/citations?user=R2C9R8oAAAAJ&hl=en">Saturnino Luz</a> is a Reader at the Usher Institute, University of Edinburgh's Medical School. He works in medical informatics, devising and applying machine learning, signal processing and natural language processing methods in the study of behaviour and communication in healthcare contexts. His main research interest is the computational modelling of behavioural and biological changes caused by neurodegenerative diseases, with focus on the analysis of vocal and linguistic signals in Alzheimers's disease. 
+        	<a href="https://www.ed.ac.uk/profile/saturnino-luz" rel="SLuz">Saturnino Luz</a> is Professor of Digital Biomarkers and Precision Medicine at the Usher Institute, University of Edinburgh's Medical School. He works in medical informatics, devising and applying machine learning, signal processing and natural language processing methods in the study of behaviour and communication in healthcare contexts. His main research interest is the computational modelling of behavioural and biological changes caused by neurodegenerative diseases, with focus on the analysis of acoustic and linguistic signals in Alzheimers's disease. 
         </td> 
     </tr> 
     <tr>
