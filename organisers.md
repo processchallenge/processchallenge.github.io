@@ -42,7 +42,7 @@ layout: page
         	<img src="/madhu.jpg" alt="Madhurananda Pahar" width="250" height="250"> 
         </td>
         <td style="width:70%">
-        	<a href="https://scholar.google.com/citations?user=P2clDtkAAAAJ&hl=en">Madhurananda Pahar</a>  is a research fellow in the Department of Computer Science at the University of Sheffield, UK.  His general research interest is in the application of machine learning and signal processing in the field of Biology. Previously, he was involved in detecting and classifying TB and COVID-19 vocal audio such as cough, breath and speech in real-world environments as well as monitoring patients' long-term recovery using smart sensors such as an accelerometer in South Africa.  He also developed deep learning methods from third-generation sequencing (Oxford Nanopore) signals to study genomics, epigenomics, transcriptomics and epi-transcriptomics in the USA. Currently, he is analysing speech to detect the signs of early cognitive decline such as dementia in Sheffield, UK. 
+        	<a href="https://scholar.google.com/citations?user=P2clDtkAAAAJ&hl=en">Madhurananda Pahar</a>  is a research fellow in the School of Computer Science at the University of Sheffield, UK.  His general research interest is in the application of machine learning and signal processing in the field of Biology. Previously, he was involved in detecting and classifying TB and COVID-19 vocal audio such as cough, breath and speech in real-world environments as well as monitoring patients' long-term recovery using smart sensors such as an accelerometer in South Africa.  He also developed deep learning methods from third-generation sequencing (Oxford Nanopore) signals to study genomics, epigenomics, transcriptomics and epi-transcriptomics in the USA. Currently, he is analysing speech to detect the signs of early cognitive decline such as dementia in Sheffield, UK. 
         </td> 
     </tr> 
     <tr>
@@ -50,7 +50,7 @@ layout: page
         	<img src="/fuxiang.jpg" alt="Fuxiang Tao" width="250" height="250"> 
         </td>
         <td style="width:70%">
-        	<a href="https://scholar.google.com/citations?user=U5yWMxIAAAAJ&hl=en">Fuxiang Tao</a> is a Research Associate in the Department of Computer Science at the University of Sheffield. His primarily focuses on Social Signal Processing, Artificial Intelligence and Human-Computer Interaction. lie in utilizing speech-based Artificial Intelligence techniques to detect emotions and cognitive disorders, such as depression and dementia. He also focuses on developing technologies to enhance social well-being in healthcare.         
+        	<a href="https://scholar.google.com/citations?user=U5yWMxIAAAAJ&hl=en">Fuxiang Tao</a> is a Research Associate in the School of Computer Science at the University of Sheffield. His primarily focuses on Social Signal Processing, Artificial Intelligence and Human-Computer Interaction. lie in utilizing speech-based Artificial Intelligence techniques to detect emotions and cognitive disorders, such as depression and dementia. He also focuses on developing technologies to enhance social well-being in healthcare.         
         </td> 
     </tr> 
     <tr>
