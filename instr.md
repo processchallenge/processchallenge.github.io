@@ -6,8 +6,7 @@ categories: media
 layout: page
 ---
 # Imporatnt Note
-**The intellectual property (IP) is not transferred to the challenge organisers, i.e., if code is shared/submitted, the participants remain the owners of their code (when
-the code is made publicly available, an appropriate license should beadded).**
+* The **intellectual property (IP)** is not transferred to the challenge organisers, i.e., if code is shared/submitted, the participants remain the owners of their code (when the code is made publicly available, an appropriate license should beadded).
 
 # Tasks
 
