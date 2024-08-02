@@ -103,7 +103,7 @@ layout: page
     </tr> 
     <tr>
         <td style="width:30%"> 
-        	<img src="/haiderf.jpeg" alt="Fasih Haider" width="250" height="250"> 
+        	<img src="/fasih.webp" alt="Fasih Haider" width="250" height="250"> 
         </td>
         <td style="width:70%">
         	<a href="https://scholar.google.com/citations?user=9xYJHP8AAAAJ&hl=en">Fasih Haider</a>, PhD, CEng, MIET, SMIEEE is a Research Associate in Machine Learning at the School of Engineering, University of Edinburgh. He has an extensive background in multimodal systems, ambient assisted living technologies, affective computing, and digital biomarkers for health monitoring. Dr. Haider's innovative work includes projects such as MoodBox and Alzheimer's dementia prediction through speech analysis. He has authored around 60 peer-reviewed papers and has been recognized as a leader in digital technologies by TechNation UK. Currently, he investigates the influence of rare data in generative AI and develops mitigation strategies to minimize its impact. Dr. Haider holds a PhD in Computer Science from Trinity College Dublin.
