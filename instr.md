@@ -5,6 +5,9 @@ mathjax: true
 categories: media
 layout: page
 ---
+# Imporatnt Note
+**The intellectual property (IP) is not transferred to the challenge organisers, i.e., if code is shared/submitted, the participants remain the owners of their code (when
+the code is made publicly available, an appropriate license should beadded).**
 
 # Tasks
 
@@ -41,3 +44,4 @@ where $$S_{k}$$ is the total score of participant $$k$$ and $$T$$ is the total n
 * The participant with the highest combined ranking score.
 
 If a participant submits both classification and regression tasks and is invited for both, their invitation will be based on the higher ranking task. Participants invited for either the classification or regression tasks will not be considered for the joint ranking. This ranking criteria follows our sister challenge, the ICASSP 2023 and is designed to encourage participants to engage in both tasks simultaneously as it increases their likelihood of receiving an invitation.
+
