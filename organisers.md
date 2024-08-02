@@ -106,7 +106,7 @@ layout: page
         	<img src="/haiderf.jpeg" alt="Fasih Haider" width="250" height="250"> 
         </td>
         <td style="width:70%">
-        	<a href="https://scholar.google.com/citations?user=9xYJHP8AAAAJ&hl=en">Fasih Haider</a> is a Research Fellow at Usher Institute, University of Edinburgh's Medical School, UK. His areas of interest are Social Signal Processing and Artificial Intelligence. Before joining the Usher Institute, he was a Research Engineer at the ADAPT Centre where he worked on methods of Social Signal Processing for video intelligence. He holds a PhD in Computer Science from Trinity College Dublin, Ireland. Currently, he is investigating the use of social signal processing and machine learning for monitoring cognitive health.
+        	<a href="https://scholar.google.com/citations?user=9xYJHP8AAAAJ&hl=en">Fasih Haider</a>, PhD, CEng, MIET, SMIEEE is a Research Associate in Machine Learning at the School of Engineering, University of Edinburgh. He has an extensive background in multimodal systems, ambient assisted living technologies, affective computing, and digital biomarkers for health monitoring. Dr. Haider's innovative work includes projects such as MoodBox and Alzheimer's dementia prediction through speech analysis. He has authored around 60 peer-reviewed papers and has been recognized as a leader in digital technologies by TechNation UK. Currently, he investigates the influence of rare data in generative AI and develops mitigation strategies to minimize its impact. Dr. Haider holds a PhD in Computer Science from Trinity College Dublin.
         </td> 
     </tr>  
 </table> 
