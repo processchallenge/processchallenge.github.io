@@ -1,6 +1,6 @@
 ---
-title: "Overview"
-permalink: "/overview/"
+title: "Call for participations"
+permalink: "/callforparticipations/"
 layout: page
 ---
 
