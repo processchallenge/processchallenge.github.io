@@ -3,7 +3,7 @@ title: "PROCESS SP challenge proposal"
 layout: post
 ---
 
-# Decision notification for Signal Processing Grand Challenge Proposal</h1>
+# Decision notification for Signal Processing Grand Challenge Proposal
 <table border="0">
     <tr>
         <td style="width:40%">  
