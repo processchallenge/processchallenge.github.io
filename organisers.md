@@ -74,7 +74,7 @@ layout: page
         	<img src="/caitlin.jpeg" alt="Caitlin Illingworth" width="250" height="250"> 
         </td>
         <td style="width:70%"> 
-        	<a href="https://scholar.google.com/citations?user=u8vNKC0AAAAJ&hl=en">Caitlin Illingworth</a> 
+        	<a href="https://scholar.google.com/citations?user=u8vNKC0AAAAJ&hl=en">Caitlin Illingworth</a> is a PhD student at the University of Sheffield's Department of Neuroscience, with Dr Daniel Blackburn and Professor Li Su as her supervisors. Her research interests are in finding more accurate cognitive assessments for non-native English speakers. Currently, she is investigating bilinguals' performance and neural activity using functional near-infrared spectroscopy (fNIRS) when completing verbal fluency tasks in their native language and English. 
         </td> 
     </tr> 
     <tr>
