@@ -90,7 +90,7 @@ layout: page
         	<img src="/fritz.jpeg" alt="HFritz Peters" width="250" height="250"> 
         </td>
         <td style="width:70%">
-        	<a href="https://scholar.google.com/citations?user=dvHd7G0AAAAJ&hl=de">Fritz Peters</a>  
+        	<a href="https://scholar.google.com/citations?user=dvHd7G0AAAAJ&hl=de">Fritz Peters</a> is a PhD student at the University of Sheffield's School of Computer Science, with Professor Heidi Christensen as his supervisor. His research interests are in developing automatic assessment frameworks for cognitive conditions such as dementia. Currently, he is investigating speech and language markers in patients with frontotemporal dementia. 
         </td> 
     </tr> 
     <tr>
