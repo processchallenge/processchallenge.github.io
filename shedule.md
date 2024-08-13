@@ -5,7 +5,7 @@ layout: page
 ---
 
 * **29th July**: PROCESS Signal Processing Grand Challenge announced and Call for Participation published.
-* **30th August**: training and development set released. Please email [process.challenge@gmail.com](mailto:process.challenge@gmail.com) to register for the challenge and receive the daset.
+* **30th August**: training and development set released. To participate, please fill the registration [registration form](https://docs.google.com/forms/d/1HANAuOsHp_244TS6xdu_veWNrfV1X6QOw-4SuwD2CVw/viewform).
 * **31st October**: deadline for registration.
 * **29th November**: test set released as well as the baseline results.
 * **6th December**: deadline for results submission.
