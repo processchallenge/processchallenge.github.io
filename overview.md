@@ -12,7 +12,7 @@ We invite participants to take part in two tasks in this challenge: the classifi
 
 This challenge aims to create a platform for contributions and discussions on early-stage dementia detection using speech signal processing and Artificial Intelligence (AI) models. We invite submissions of papers presenting novel AI models, novel speech signal processing techniques, and novel feature selection and extraction approaches for the PROCESS. This is crucial for advancing early-stage dementia detection and the development of applications used in clinical dementia diagnosis.
 
-If you are interested in taking part in the challenge, please fill the online [registration form](https://docs.google.com/forms/d/1HANAuOsHp_244TS6xdu_veWNrfV1X6QOw-4SuwD2CVw/viewform). There are no limitations on the number of members per team, but each member can only join one team.
+If you are interested in taking part in the challenge, please fill the online [registration form](https://forms.gle/wqYszj7ZxibTd2rP9). There are no limitations on the number of members per team, but each member can only join one team.
 
 #### References
 
