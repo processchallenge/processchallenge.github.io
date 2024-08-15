@@ -66,7 +66,7 @@ layout: page
         	<img src="/hend.jpeg" alt="Hend Elghazaly" width="250" height="250"> 
         </td>
         <td style="width:70%"> 
-        	**Hend Elghazaly**, University of Sheffield
+        	Hend ElGhazaly is a PhD student in the Speech and Hearing group at the University of Sheffield's School of Computer Science, under the supervision of Professor Heidi Christensen and Dr. Nafise Sadat Moosavi. Her research centres on fairness in speech technologies, where she examines biases in speech systems and explores strategies to mitigate them. She is also interested in low-resource domains, including healthcare applications. She aims to contribute to the development of more fair and inclusive speech systems.
         </td> 
     </tr> 
     <tr>
