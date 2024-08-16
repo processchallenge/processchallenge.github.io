@@ -1,5 +1,5 @@
 ---
-title: "Registrtion form is now ready"
+title: "Registrtion is now open"
 layout: post
 ---
 
