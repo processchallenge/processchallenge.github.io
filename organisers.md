@@ -10,7 +10,7 @@ layout: page
         	<img src="/heidi.png" alt="Heidi Christensen" width="250" height="250"> 
         </td>
         <td style="width:70%"> 
-        	<a href="https://scholar.google.co.uk/citations?user=5ccB6BcAAAAJ&hl=en">Heidi Christensen</a> is a Professor in the School of Computer Science at the University of Sheffield and the head of the school. I am part of the Speech and Hearing Research Group (SPandH) and a theme lead for the UKRI Centre for Doctoral Training in speech and language technologies and their applications. She am the technical lead for CognoSpeak™, a speech-based tool for detecting and tracking early signs of cognitive impairment. She has a long-standing interest in improving equality and diversity and I take an active interest in the EDI work within our university. Wider, I am on the diversity committee of ISCA (International Speech Communication Association) and the Diversity and Inclusion chair for Interspeech 2023. Her research interests are in the application of audio and speech technology to the healthcare domain and include three main areas: the automatic recognition of disordered, atypical speech, the detection and tracking of verbal and non-verbal traits in speech and language, Equality, diversity and inclusion issues in speech technology research and applications.
+        	<a href="https://scholar.google.co.uk/citations?user=5ccB6BcAAAAJ&hl=en">Heidi Christensen</a> is a Professor in the School of Computer Science at the University of Sheffield and the head of the school. She is a part of the Speech and Hearing Research Group (SPandH) and a theme lead for the UKRI Centre for Doctoral Training in speech and language technologies and their applications. She is the technical lead for CognoSpeak™, a speech-based tool for detecting and tracking early signs of cognitive impairment. She has a long-standing interest in improving equality and diversity and she takes an active interest in the EDI work within our university. She also is on the diversity committee of ISCA (International Speech Communication Association) and the Diversity and Inclusion chair for Interspeech 2023. Her research interests are in the application of audio and speech technology to the healthcare domain and include three main areas: the automatic recognition of disordered, atypical speech, the detection and tracking of verbal and non-verbal traits in speech and language, Equality, diversity and inclusion issues in speech technology research and applications.
         </td> 
     </tr> 
     <tr>
@@ -57,8 +57,9 @@ layout: page
         <td style="width:30%">
         	<img src="/dorota.jpeg" alt="Dorota Braun" width="250" height="250"> 
         </td>
-        <td style="width:70%">
-        	**Dorota Braun**, University of Sheffield 
+        <td style="width:70%"> 
+            Dorota Braun is a Research Assistant on CognoSpeak where she helps to recruit participants with Mild Cognitive Impairment.
+            Having recently graduated from the University of Oxford where she studied Clinical and Therapeutic Neuroscience, her interests include data-driven approaches to advancing our understanding of psychiatric and neurological disorders. 
         </td> 
     </tr> 
     <tr>
