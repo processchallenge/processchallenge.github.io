@@ -7,6 +7,7 @@ layout: page
 ---
 # Important Note
 * The **intellectual property (IP)** is not transferred to the challenge organisers, i.e., if code is shared/submitted, the participants remain the owners of their code (when the code is made publicly available, an appropriate licence should be added).
+* Participants can **submit up to 3 results** coming from **3 different models**, and the best model will be considered. Invited papers should introduce the models they attempt.
 
 # Tasks
 
