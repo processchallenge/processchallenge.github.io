@@ -20,11 +20,11 @@ layout: page
 The evaluation of the classification task will be done through standard classification and regression metrics. These metrics can be calculated globally by counting the total true positives, false negatives, and false positives:
 
 * **Macro-Precision**: The averaged ratio of correctly predicted positive observations to the total predicted positives.
-$$ \text{Precision} = \frac{1}{N} \times \frac{TP_i}{TP_i + FP_i} $$
+$$ \text{Precision} = \frac{1}{N} \times \sum_{i=1}^{N} \frac{TP_i}{TP_i + FP_i} $$
 * **Macro-Recall**: The averaged ratio of correctly predicted positive observations to all observations in the actual class
-$$ \text{Recall} = \frac{1}{N} \times \frac{TP_i}{TP_i + FN_i} $$
+$$ \text{Recall} = \frac{1}{N} \times \sum_{i=1}^{N} \frac{TP_i}{TP_i + FN_i} $$
 * **Macro-F1 Score**: The average of Precision and Recall.
-$$ \text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}} $$
+$$ \text{F1 Score} = \frac{1}{N} \times \sum_{i=1}^{N} 2 \times \frac{\text{Precision}_{i} \times \text{Recall}_{i}}{\text{Precision}_{i} + \text{Recall}_{i}} $$
 
 where $$N$$ is the number of diagnostic classes, $$TP{_i}$$, $$FP{_i}$$, $$FN{_i}$$ are true positives, false positives, and false negatives for the i-th class, respectively.
 
