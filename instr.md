@@ -10,7 +10,7 @@ layout: page
 * Participants can **submit up to 3 results** coming from **3 different models**, and the best model will be considered. Invited papers should introduce the models they attempt.
 * **Test scores submission instruction**  
   * Step 1: Receiving and naming the file: 
-  The shared test set directory includes a CSV file called "PROCESS_submission_<GROUP-NAME>_<AFFILIATION>.csv". Please replace <GROUP-NAME> with your group name and <AFFILIATION> with your affiliation that you registered with while sending us the scores from your models. 
+  The shared test set directory includes a [CSV file](https://drive.google.com/file/d/1pYwQNH87G9dsTX-xnoQzT4kD_QWgw-6o/view?usp=sharing)  called "PROCESS_submission_<GROUP-NAME>_<AFFILIATION>.csv". Please replace <GROUP-NAME> with your group name and <AFFILIATION> with your affiliation that you registered with while sending us the scores from your models. 
 
   * Step 2: Populating the scores:
 The CSV file contains columns which are Test_ID, Model1_class, Model2_class, Model3_class, Model1_MMSE, Model2_MMSE, Model3_MMSE. If you decide to submit the results for less than three models, please keep the corresponding column empty. Please double-check that your predicted classes correctly correspond to the test IDs. 
