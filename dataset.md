@@ -31,6 +31,8 @@ The training and development sets consist of audio recordings and corresponding 
 * Classification task
 Baseline results in the cookie theft (CT), semantic fluency and phonemic fluency (VF) and their combination (CT+VF) are presented in terms of accuracy (Acc.), precision (Prec.), recall (Rec.), and F1 score, reported as percentages.
 
-<img src="/Results.png" alt="Results" width="50%" height="50%"/>
+<img src="/Results-cls.png" alt="Classification results" width="50%" height="50%"/>
 
 * Regression task
+Baseline regression results in terms of root mean squared error (RMSE).
+<img src="/Results-reg.png" alt="Regression results" width="50%" height="50%"/>
