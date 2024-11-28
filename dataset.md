@@ -29,4 +29,4 @@ The training and development sets consist of audio recordings and corresponding 
 
 #### Results on the test set
 
-<img src="./Results.png" alt="Results" width="200"/>
+<img src="/Results.png" alt="Results" width="200"/>
