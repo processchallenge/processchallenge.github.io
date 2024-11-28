@@ -8,7 +8,18 @@ layout: page
 # Important Note
 * The **intellectual property (IP)** is not transferred to the challenge organisers, i.e., if code is shared/submitted, the participants remain the owners of their code (when the code is made publicly available, an appropriate licence should be added).
 * Participants can **submit up to 3 results** coming from **3 different models**, and the best model will be considered. Invited papers should introduce the models they attempt.
-* For the two tasks, participants must generate their predictions using the **template.csv** file that we will release with the test set containing test IDs. To avoid confusion, we suggest the participants share with us their predictions in the following format: **PROCESS_classification_model1.csv**, **PROCESS_regression_model1.csv**.
+* Test scores submission instruction  
+  * Step 1: Receiving and naming the file: 
+  The shared test set directory includes a CSV file called "PROCESS_submission_<GROUP-NAME>_<AFFILIATION>.csv". Please replace <GROUP-NAME> with your group name and <AFFILIATION> with your affiliation that you registered with while sending us the scores from your models. 
+
+  * Step 2: Populating the scores:
+The CSV file contains columns which are Test_ID, Model1_class, Model2_class, Model3_class, Model1_MMSE, Model2_MMSE, Model3_MMSE. If you decide to submit the results for less than three models, please keep the corresponding column empty. Please double-check that your predicted classes correctly correspond to the test IDs. 
+
+  * Step 3: Please make sure: 
+No cell is kept empty for a column for which you are submitting results; otherwise, that column will be automatically ignored while calculating your scores.  The predicted class names must be the same as they appear on the training set, and they are "Dementia", "MCI" and "HC". 
+
+  * Step 4: Submission: 
+Please upload your RENAMED CSV file with your affiliation and group name to this [Google Form](https://forms.gle/869e6zcq3CaJS7uD8). Multiple submissions are permitted and the most recent CSV file will be considered for the scoring. Please make sure only one team member submits the test scores to avoid having unnecessary duplicates. 
 
 # Tasks
 
