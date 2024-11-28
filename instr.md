@@ -8,7 +8,7 @@ layout: page
 # Important Note
 * The **intellectual property (IP)** is not transferred to the challenge organisers, i.e., if code is shared/submitted, the participants remain the owners of their code (when the code is made publicly available, an appropriate licence should be added).
 * Participants can **submit up to 3 results** coming from **3 different models**, and the best model will be considered. Invited papers should introduce the models they attempt.
-* Test scores submission instruction  
+* **Test scores submission instruction**  
   * Step 1: Receiving and naming the file: 
   The shared test set directory includes a CSV file called "PROCESS_submission_<GROUP-NAME>_<AFFILIATION>.csv". Please replace <GROUP-NAME> with your group name and <AFFILIATION> with your affiliation that you registered with while sending us the scores from your models. 
 
