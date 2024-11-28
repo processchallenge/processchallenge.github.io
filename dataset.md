@@ -33,4 +33,4 @@ The training and development sets consist of audio recordings and corresponding 
 <img src="/Results-cls.png" alt="Classification results" width="50%" height="50%"/>
 
 * Baseline regression results are presented in terms of root mean squared error (RMSE).
-<img src="/Results-reg.png" alt="Regression results" width="50%" height="50%"/>
+<img src="/Results-reg.png" alt="Regression results" width="40%" height="40%"/>
