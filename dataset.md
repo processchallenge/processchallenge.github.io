@@ -26,3 +26,7 @@ The method for corpus collection was designed based on neuroscience research for
 The training and development sets consist of audio recordings and corresponding manual transcripts of each prompt for every speaker. For the classification task, we provide a diagnosis for each speaker (such as healthy volunteer, MCI and dementia), while for the regression task, we provide the MMSE score for each speaker.
 
 **Important**: for the test set, the transcripts and diagnoses are not available because providing manual transcription conflicts with the design principles of modern automated detection systems.
+
+#### Results on the test set
+
+![Results](./Results.png)
