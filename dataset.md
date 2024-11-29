@@ -28,7 +28,7 @@ The training and development sets consist of audio recordings and corresponding 
 **Important**: for the test set, the transcripts and diagnoses are not available because providing manual transcription conflicts with the design principles of modern automated detection systems.
 
 #### Baseline results
-# The following baseline results were calculated on the test set without any hyperparameter optimisation
+##### The following baseline results were calculated on the test set without any hyperparameter optimisation
 * Baseline classification results for the Cookie Theft (CT) task, semantic fluency, phonemic fluency (VF), and their combination (CT+VF) are presented in terms of accuracy (Acc.), macro-precision (Prec.), macro-recall (Rec.), and macro-F1 score, all reported as percentages.
 
 <img src="/Results-cls.png" alt="Classification results" width="50%" height="50%"/>
