@@ -7,9 +7,7 @@ layout: page
 ---
 # Important Note
 * The **intellectual property (IP)** is not transferred to the challenge organisers, i.e., if code is shared/submitted, the participants remain the owners of their code (when the code is made publicly available, an appropriate licence should be added).
-* Participants may **submit up to 3 results from 3 different models for each task** (a total of **6**: 3 models for classification and 3 models for regression). The best-performing model will be considered. Invited papers should provide an introduction to the models being proposed.
-
-Participants can **submit up to 3 results** coming from **3 different models** for each task (6 in total: 3 models for classification and 3 models for regression), and the best model will be considered. Invited papers should introduce the models they attempt.
+* Participants may **submit up to 3 results from 3 different models for each task** (a total of **6**: 3 models for classification and 3 models for regression). The best-performing model will be considered. Invited papers should provide an introduction to the models being proposed. 
 * **Test scores submission instruction**  
   * Step 1: Receiving and naming the file: 
   The shared test set directory includes a [CSV file](https://drive.google.com/file/d/1pYwQNH87G9dsTX-xnoQzT4kD_QWgw-6o/view?usp=sharing)  called "PROCESS_submission_<GROUP-NAME>_<AFFILIATION>.csv". Please replace <GROUP-NAME> with your group name and <AFFILIATION> with your affiliation that you registered with while sending us the scores from your models. 
