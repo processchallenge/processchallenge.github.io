@@ -7,7 +7,9 @@ layout: page
 ---
 # Important Note
 * The **intellectual property (IP)** is not transferred to the challenge organisers, i.e., if code is shared/submitted, the participants remain the owners of their code (when the code is made publicly available, an appropriate licence should be added).
-* Participants can **submit up to 3 results** coming from **3 different models**, and the best model will be considered. Invited papers should introduce the models they attempt.
+* Participants may **submit up to 3 results from 3 different models for each task** (a total of **6**: 3 models for classification and 3 models for regression). The best-performing model will be considered. Invited papers should provide an introduction to the models being proposed.
+
+Participants can **submit up to 3 results** coming from **3 different models** for each task (6 in total: 3 models for classification and 3 models for regression), and the best model will be considered. Invited papers should introduce the models they attempt.
 * **Test scores submission instruction**  
   * Step 1: Receiving and naming the file: 
   The shared test set directory includes a [CSV file](https://drive.google.com/file/d/1pYwQNH87G9dsTX-xnoQzT4kD_QWgw-6o/view?usp=sharing)  called "PROCESS_submission_<GROUP-NAME>_<AFFILIATION>.csv". Please replace <GROUP-NAME> with your group name and <AFFILIATION> with your affiliation that you registered with while sending us the scores from your models. 
@@ -20,6 +22,7 @@ No cell is kept empty for a column for which you are submitting results; otherwi
 
   * Step 4: Submission: 
 Please upload your RENAMED CSV file with your affiliation and group name to this [Google Form](https://forms.gle/869e6zcq3CaJS7uD8). Multiple submissions are permitted and the most recent CSV file will be considered for the scoring. Please make sure only one team member submits the test scores to avoid having unnecessary duplicates.  
+  * Please note that we will only consider the **latest submitted CSV file**, which should contain the outputs of up to **6 models**.
 
 1. **Classification**: This task is aimed at identifying those with different cognitive impairments and dementia from healthy volunteers through the processing of their speech.
 2. **Regression**: This task is to predict the corresponding Mini Mental Status Examination (MMSE) score of speakers from their speech.
