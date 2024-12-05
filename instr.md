@@ -19,9 +19,7 @@ The CSV file contains columns which are Test_ID, Model1_class, Model2_class, Mod
 No cell is kept empty for a column for which you are submitting results; otherwise, that column will be automatically ignored while calculating your scores.  The predicted class names must be the same as they appear on the training set, and they are "Dementia", "MCI" and "HC". 
 
   * Step 4: Submission: 
-Please upload your RENAMED CSV file with your affiliation and group name to this [Google Form](https://forms.gle/869e6zcq3CaJS7uD8). Multiple submissions are permitted and the most recent CSV file will be considered for the scoring. Please make sure only one team member submits the test scores to avoid having unnecessary duplicates. 
-  * Note: If a participant does not submit results for the classification task, the **F1 score** is set to **0** and for the regression task, it is set to ***1000***.
-# Tasks
+Please upload your RENAMED CSV file with your affiliation and group name to this [Google Form](https://forms.gle/869e6zcq3CaJS7uD8). Multiple submissions are permitted and the most recent CSV file will be considered for the scoring. Please make sure only one team member submits the test scores to avoid having unnecessary duplicates.  
 
 1. **Classification**: This task is aimed at identifying those with different cognitive impairments and dementia from healthy volunteers through the processing of their speech.
 2. **Regression**: This task is to predict the corresponding Mini Mental Status Examination (MMSE) score of speakers from their speech.
