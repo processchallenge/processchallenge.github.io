@@ -125,6 +125,7 @@ layout: page
 
 
 * Regression models 
+
 | Rank             | Team Name | Model Number | RMSE |
 | :---------------- | :------: | :------: | ----: |
 | 1 | nyraLingo_nyra_health | 1 | 2.459 | 
