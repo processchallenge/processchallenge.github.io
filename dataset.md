@@ -28,10 +28,18 @@ The training and development sets consist of audio recordings and corresponding 
 **Important**: for the test set, the transcripts and diagnoses are not available because providing manual transcription conflicts with the design principles of modern automated detection systems.
 
 #### Baseline results
+##### The following baseline results were calculated on the development set without any hyperparameter optimisation
+* Baseline classification results (on the development set) for the Cookie Theft (CT) task, semantic fluency, phonemic fluency (VF), and their combination (CT+VF) are presented in terms of accuracy (Acc.), macro-precision (Prec.), macro-recall (Rec.), and macro-F1 score, all reported as percentages.
+
+<img src="/Results-cls-devset.png" alt="Classification results on development set" width="50%" height="50%"/>
+
+* Baseline regression results (on the development set) are presented in terms of root mean squared error (RMSE).
+<img src="/Results-reg-devset.png" alt="Regression results on development set" width="44%" height="44%"/>
+
 ##### The following baseline results were calculated on the test set without any hyperparameter optimisation
-* Baseline classification results for the Cookie Theft (CT) task, semantic fluency, phonemic fluency (VF), and their combination (CT+VF) are presented in terms of accuracy (Acc.), macro-precision (Prec.), macro-recall (Rec.), and macro-F1 score, all reported as percentages.
+* Baseline classification results (on the test set) for the Cookie Theft (CT) task, semantic fluency, phonemic fluency (VF), and their combination (CT+VF) are presented in terms of accuracy (Acc.), macro-precision (Prec.), macro-recall (Rec.), and macro-F1 score, all reported as percentages.
 
-<img src="/Results-cls.png" alt="Classification results" width="50%" height="50%"/>
+<img src="/Results-cls.png" alt="Classification results on test set" width="50%" height="50%"/>
 
-* Baseline regression results are presented in terms of root mean squared error (RMSE).
-<img src="/Results-reg.png" alt="Regression results" width="44%" height="44%"/>
+* Baseline regression results (on the test set) are presented in terms of root mean squared error (RMSE).
+<img src="/Results-reg.png" alt="Regression results on test set" width="44%" height="44%"/>
