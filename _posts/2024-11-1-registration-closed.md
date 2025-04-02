@@ -1,6 +1,6 @@
 ---
-title: "Registrtion is closed"
+title: "Registration is closed"
 layout: post
 ---
 
-# Registrtion is now closed 
+# Registration is now closed 
