@@ -4,6 +4,10 @@ permalink: "/dataset/"
 layout: page
 ---
 
+#### Future challenge
+Thanks for your participation. We are pleased to announce that additional data will be released soon as part of a new challenge at an upcoming international conference. Further details will be shared in due course.
+
+#### Dataset
 In this challenge, we provide the latest corpus to the community to focus on early-stage dementia detection. The corpus is highly relevant for advancing dementia detection research and, as such, continues the impact trajectory of the previous challenges led by Luz and his team. The PROCESS data has the following advantages:
 
 * This corpus provides a wider variety of diagnostic classes for different subtypes of early-stage dementia, including mild cognitive impairment (MCI). This aligns with actual clinical diagnoses, allowing early-stage dementia detection and making the research questions closer to real-world applications.
