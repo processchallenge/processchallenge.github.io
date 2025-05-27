@@ -11,9 +11,9 @@ layout: page
 * <strike>**6th December**: deadline for results submission (**anywhere on earth on 6th December 2024**).<strike>
 * <strike>**9th December**: notification for the invitation of a 2-page paper.</strike>
 * <strike>**30th December**: deadline for paper submission.<strike> 
-* Paper Submission Deadline - **13th December 2024**
-* Notification of Acceptance - **4th January 2025**
-* Camera Ready Paper Deadline - **10th January 2025** 
-* **6th-11th April**: ICASSP 2025.
+* <strike>**Paper Submission Deadline - **13th December 2024**<strike> 
+* <strike>**Notification of Acceptance - **4th January 2025**<strike> 
+* <strike>**Camera Ready Paper Deadline - **10th January 2025**<strike>  
+* <strike>****6th-11th April**: ICASSP 2025.<strike> 
 
 
